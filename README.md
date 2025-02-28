@@ -1,4 +1,4 @@
-# Voice_Messages_Recognizer_RU_ENG_bot 🤖
+# Voice_Messages_Recognizer_RU_ENG_telegram_bot 🤖
 Telegram voice messages recognizer bot (Transcibator) based on Vosk and aiogram, no external APIs like Google Cloun or Yandex Speechkit usage!
 
 ## Описание проекта
